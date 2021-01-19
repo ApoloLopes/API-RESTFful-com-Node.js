@@ -3,4 +3,8 @@ Esse projeto implementa uma API RESTful com Node.js. Faz parte de um exercício 
 
 Quando eu executo node . Aparece o seguinte erro:
 
+![](erro.jpg)
 
+Veja que o mongo ta rodando corretamente
+
+![](mongo.jpg)
